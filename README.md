@@ -27,30 +27,6 @@ git clone https://github.com/Wybounty/Pong.git
 2. Ouvrir le projet avec Unity Hub.
 3. Lancer la scène principale.
 
-## 📸 Aperçu
-
-*(Tu pourras ajouter une capture d'écran du jeu ici plus tard.)*
-
-## 📚 Objectif
-
-Ce projet a été réalisé pour apprendre :
-
-- Les scripts en C#
-- Les Rigidbody2D et les collisions
-- Les Triggers
-- La gestion de l'UI
-- Git et GitHub
-- L'architecture d'un projet Unity
-
-## 🔮 Améliorations prévues
-
-- [ ] IA pour jouer en solo
-- [ ] Écran de victoire
-- [ ] Menu principal
-- [ ] Effets sonores
-- [ ] Compte à rebours avant le début d'une manche
-- [ ] Pause du jeu
-
 ---
 
 Développé par **Wybounty** 🚀
